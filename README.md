@@ -11,7 +11,7 @@ Made in a week as my first solo project full-stack.</br> </br>
 
 # 2. Coffee-Chain 
 
-<b> Stack: </b> Blockchain EOS, Node.js (with Koa), mySQL, React, Redux. Design made with Framer X. Team of 5 developers. My role: front-end (React, Redux). <br>
+<b> Stack: </b> Blockchain EOS, Node.js (with Koa), mySQL, React, Redux. Design made with Framer X. Team of 5 developers. My role: front-end (React, Redux, Emotion js). <br>
 <b> Description: </b> An app which connects isolated producers with coffee-shops all accross the world and establish trust and transparency thanks to the Blockchain. Motivated by the need for fairer coffee trade. 
 <br><br>
 <i> See:  "coffee-chain" folder:</i> 1. video, 2. screenshots of the different pages. 

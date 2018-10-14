@@ -27,7 +27,7 @@ The patient would accumulate a database of symptoms highlighted over time with i
 # 4. Minerva
 
 <b> stack: </b>  Node js (with Koa), MongoDB, Mongoose, React, Redux, Sketch for design. My role: both server and client tasks (trying with different types of APIs, adding features, refractoring, etc).<br>
-<b> Description: </b> An app to scan a book, and automatically vizualise the reviews. However - problem with Google Books API: no access to single reviews. Project still in progress.<br><br>
+<b> Description: </b> Login via Gmail account to scan a book, and automatically vizualise the reviews. However - problem with Google Books API: no access to single reviews. Project still in progress; AWS API to be used instead.<br><br>
 
 <i>See: "Minerva": </i> screenshots of the pages. 
 
